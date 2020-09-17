@@ -1,5 +1,5 @@
 # NLW2
-Projeto desenvolvido na semana NLW2 da Rocketseat de aulas online.
+PROFFY - Projeto desenvolvido na semana NLW2 da Rocketseat para aulas online.
 
 Tecnologias utilizadas para o projeto:
 - HTML;
